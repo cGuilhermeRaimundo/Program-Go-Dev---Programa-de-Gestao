@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Programa GO DEV SÊNIOR (3 Etapa - Desafio De Programação)/1.0.0": {
+        "runtime": {
+          "Programa GO DEV SÊNIOR (3 Etapa - Desafio De Programação).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa GO DEV SÊNIOR (3 Etapa - Desafio De Programação)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
