@@ -1,4 +1,5 @@
-#  **PROGRAMA DE GESTÃO - PROGRAM GO DEV SÊNIOR **
+#  PROGRAMA DE GESTÃO - PROGRAM GO DEV SÊNIO
+
 Um programa de gestão realizado para 3ª etapa de inscrição do programa Go Dev Sênior
 Este programa foi feito em Windows Forms, 100% na lingua C#, por ser a língua que mais estou me dedicando no devido momento.
 
